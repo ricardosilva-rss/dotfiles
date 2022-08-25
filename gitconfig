@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ricardosilva.rss@gmail.com
+	name = Ricardo Silva
